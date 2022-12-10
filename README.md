@@ -1,6 +1,6 @@
 [![Header](https://github.com/testmachine19/testmachine19/blob/main/assets/Matrix-PNG-Transparent-Image.gif)]
 
-## I'm a beginner in QA Engineer and Tutor. 
+## I'm a beginner in QA Engineer and Tutorial. 
 
 
 
