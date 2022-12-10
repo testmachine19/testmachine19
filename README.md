@@ -7,6 +7,12 @@
 ### Language and Tools
 
 ![Header](https://img.shields.io/badge/<POSTMAN>-<090909>?style=for-the-badge&logo=appveyor)
+![Header](https://img.shields.io/badge/<Jira>-<090909>?style=for-the-badge&logo=appveyor)
+![Header](https://img.shields.io/badge/<Github>-<090910>?style=for-the-badge&logo=appveyor)
+![Header](https://img.shields.io/badge/<Swagger>-<090911>?style=for-the-badge&logo=appveyor)
+![Header](https://img.shields.io/badge/<AzureDevops>-<090912>?style=for-the-badge&logo=appveyor)
+![Header](https://img.shields.io/badge/<MySql>-<090912>?style=for-the-badge&logo=appveyor)
+![Header](https://img.shields.io/badge/<Phyton>-<090909>?style=for-the-badge&logo=appveyor)
 
 
 
