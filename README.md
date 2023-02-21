@@ -18,6 +18,10 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-008080?style=plastic&logo=Seleniu,&logoColor=ffff00)
 ![TestNG](https://img.shields.io/badge/-TestNG-008080?style=plastic&logo=TestNG&logoColor=ffff00)
 
+### Follow me 
+[![Telegram](https://img.shields.io/badge/-Telegram-008080?style=plastic&logo=Telegram&logoColor=ffff00)](https://@sparrowslava) 
+[![LinkedIN](https://img.shields.io/badge/-LinkedIN-008080?style=plastic&logo=LinkedIN&logoColor=0000ff)](https://www.linkedin.com/in/slava-vorobyov-qa-testing/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-008080?style=plastic&logo=Instagram&logoColor=ffff00)](https://vorobyovslava_90) 
 
 
 
